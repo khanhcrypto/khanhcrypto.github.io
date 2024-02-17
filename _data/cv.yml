@@ -1,0 +1,33 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Muhammed F. Esgin
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Faculty of Information Technology, Monash University, Australia
+      year: 2020
+      description:
+        - "Title: Practice-Oriented Techniques in Lattice-Based Cryptography"
+        - received 2020 Vice-Chancellor’s Commendation for Thesis Excellence Award
+        - access thesis <a href="https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728" target="_blank">here</a> (opens in a separate tab)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Cryptography
+      items: 
+        - Post-quantum (a.k.a. quantum-safe) cryptography
+        - Lattice-based cryptography
+        - Hash-based cryptography
+        - Privacy-Enhancing Technologies (PETs)
+        - Zero-knowledge proofs
+        - Quantum security analysis
+    - title: Blockchain
+      items:
+        - Applications of above cryptographic schemes
+        - Efficient consensus
+        - Leader election
