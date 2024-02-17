@@ -1,14 +1,26 @@
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
-  
-"CORE Rank: A*":
-  url: https://www.core.edu.au/conference-portal
-  
-"CORE Rank: A":
-  url: https://www.core.edu.au/conference-portal
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Preprint":
+  color: "#a9a9a9"
+
+"CRYPTO":
+  color: "#663399"
+
+"EUROCRYPT":
   color: "#00369f"
-  
-"CORE Rank: B":
-  url: https://www.core.edu.au/conference-portal
-  color: "#99ccff"
+
+"ASIACRYPT":
+  color: "#556b2f"
+
+"ACM CCS":
+  color: "#a52a2a"
+
+"PKC":
+  color: "#ff8c00"
+
+
