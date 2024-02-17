@@ -6,7 +6,7 @@ subtitle: Lecturer (Assistant Professor) in Cryptography at King's College Londo
 
 profile:
   align: right
-  image: avatar.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Office BH(N)7.16</p>
