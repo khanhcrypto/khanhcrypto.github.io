@@ -25,4 +25,3 @@ I am broadly interested in mathematical aspects of cryptography. My current rese
 I currently work as a lecturer at King's College London. Previously, I was a post-doc at EPFL, hosted by Alessandro Chiesa. I obtained my PhD degree at ETH Zurich and IBM Research Europe - Zurich, under the supervision of Vadim Lyubashevsky and Dennis Hofheinz. Before that, I did my undergraduate and master studies at the University of Bristol.
 
 
-PAGE UNDER DEVELOPMENT
