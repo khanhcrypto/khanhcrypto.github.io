@@ -17,7 +17,7 @@ nav_order: 2
 <h3> Program Chairing </h3>
 <div>
   <ul>
-    <li><a href="https://www.cfail.org/"> CFAIL 2024: The Conference for Failed Approaches and Insightful Losses in Cryptology </a> (August 17th, Santa Barbara)</li>
+    <li><a href="https://www.cfail.org/"> CFAIL 2024: The Conference for Failed Approaches and Insightful Losses in Cryptology </a> (August 17 2024, Santa Barbara)</li>
   </ul>
 </div>
 
