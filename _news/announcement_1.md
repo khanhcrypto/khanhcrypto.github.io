@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-22 15:59:00-0400
+date: 2024-08-26 09:00:00-0400
 inline: true
 ---
 
-I am giving a talk at the UK Crypto Day 2024. See [here](https://uk-crypto-day.github.io/2024/03/04/uk-crypto-day/) for more information on registration and schedule.
+Two papers accepted at ASIACRYPT 2024! "RoK, Paper, SISsors – Toolkit for Lattice-based Succinct Arguments" - joint work with Michael Klooß, Russell W. F. Lai and Michał Osadnik. "Lova: Lattice-Based Folding Scheme from Unstructured Lattices." - joint work with Giacomo Fenzi, Christian Knabenhans and Duc Tu Pham.
