@@ -14,13 +14,23 @@ nav_order: 2
   </ul>
 </div>
 
+<h3> Program Chairing </h3>
+<div>
+  <ul>
+    <li><a href="https://www.cfail.org/"> CFAIL 2024: The Conference for Failed Approaches and Insightful Losses in Cryptology </a> (August 17th, Santa Barbara)</li>
+  </ul>
+</div>
+
 <h3> Program Committees </h3>
 <div>
   <ul>
     <li>ACISP: 2022, 2024</li>
     <li>ACM CCS: 2023, 2024</li>
+    <li>ArcticCrypt: 2025</li>
     <li>Eurocrypt: 2023</li>
+    <li>RWC: 2025</li>
     <li>SCN: 2024</li>
+    <li>VCRIS: 2024</li>
   </ul>
 </div>
 
