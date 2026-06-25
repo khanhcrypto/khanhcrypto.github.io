@@ -10,8 +10,8 @@ nav_order: 2
 <h3> Co-organisation of Events </h3>
 <div>
   <ul>
-    <li><a href="https://icms.ac.uk/activities/workshop/novel-lattice-assumptions/"> Novel lattice assumptions (Jul 13-17 2026, Edinburgh) </li>
-    <li><a href="https://viasm.edu.vn/en/hdkh/YCF2025"> Young Cryptographers Forum (Aug 24-25 2026, Hanoi) </li>
+    <li><a href="https://icms.ac.uk/activities/workshop/novel-lattice-assumptions/"> Novel lattice assumptions </a>  (Jul 13-17 2026, Edinburgh) </li>
+    <li><a href="https://viasm.edu.vn/en/hdkh/YCF2025"> Young Cryptographers Forum </a> (Aug 24-25 2026, Hanoi) </li>
     <li><a href="https://uk-crypto-day.github.io/2025/02/20/uk-crypto-day/"> UK Crypto Day 2025 </a> (May 20 2025, London)</li>
     <li><a href="https://lattices-meet-hashes23.epfl.ch/"> Lattices Meet Hashes: Recent Advances in Post-Quantum Zero-Knowledge Proofs </a> (May 01-03 2023, Lausanne)</li>
   </ul>
@@ -37,6 +37,13 @@ nav_order: 2
     <li>RWC: 2025, 2026</li>
     <li>SCN: 2024, 2026</li>
     <li>VCRIS: 2024</li>
+  </ul>
+</div>
+
+<h3> Editorial Board </h3>
+<div>
+  <ul>
+    <li><a href="https://www.tandfonline.com/journals/tjit20/about-this-journal#aims-and-scope"> Journal of Information and Telecommunication </a></li>
   </ul>
 </div>
 
