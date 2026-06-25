@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-08-26 09:00:00-0400
+date: 2026-06-25 09:00:00-0400
 inline: true
 ---
 
-Two papers accepted at ASIACRYPT 2024! "RoK, Paper, SISsors – Toolkit for Lattice-based Succinct Arguments" - joint work with Michael Klooß, Russell W. F. Lai and Michał Osadnik. "Lova: Lattice-Based Folding Scheme from Unstructured Lattices." - joint work with Giacomo Fenzi, Christian Knabenhans and Duc Tu Pham.
+Giving two talks at <a href="https://viasm.edu.vn/">VIASM, Hanoi</a> on July 22nd and 23rd: <a href="https://viasm.edu.vn/hdkh/talk-1-hachi-efficient-lattice-based-multilinear-polynomial-commitments-over-extension-fields">"Hachi: Efficient Lattice-Based Multilinear Polynomial Commitments over Extension Fields"</a> and <a href="https://viasm.edu.vn/hdkh/talk2-rokoko-lattice-based-succinct-arguments-a-committed-refinement">"RoKoko: Lattice-Based Succinct Arguments, a Committed Refinement"</a>.

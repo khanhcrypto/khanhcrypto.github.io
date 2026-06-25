@@ -10,6 +10,8 @@ nav_order: 2
 <h3> Co-organisation of Events </h3>
 <div>
   <ul>
+    <li><a href="https://icms.ac.uk/activities/workshop/novel-lattice-assumptions/"> Novel lattice assumptions (Jul 13-17 2026, Edinburgh) </li>
+    <li><a href="https://uk-crypto-day.github.io/2025/02/20/uk-crypto-day/"> UK Crypto Day 2025 </a> (May 20 2025, London)</li>
     <li><a href="https://lattices-meet-hashes23.epfl.ch/"> Lattices Meet Hashes: Recent Advances in Post-Quantum Zero-Knowledge Proofs </a> (May 01-03 2023, Lausanne)</li>
   </ul>
 </div>
@@ -17,6 +19,7 @@ nav_order: 2
 <h3> Program Chairing </h3>
 <div>
   <ul>
+    <li><a href="https://www.cfail.org/"> CFAIL 2025: The Conference for Failed Approaches and Insightful Losses in Cryptology </a> (August 16 2025, Santa Barbara)</li>
     <li><a href="https://www.cfail.org/"> CFAIL 2024: The Conference for Failed Approaches and Insightful Losses in Cryptology </a> (August 17 2024, Santa Barbara)</li>
   </ul>
 </div>
